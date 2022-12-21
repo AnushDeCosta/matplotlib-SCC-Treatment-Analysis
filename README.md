@@ -1,2 +1,4 @@
-# matplotlib-challenge-Pymaceuticals
-BootCamp - Module 5 Challenge
+# Matplotlib-challenge
+
+# BootCamp - Module 5 Challenge
+Student Name - Anush De Costa Module 5 Challenge Name -Pymaceuticals Challenge
